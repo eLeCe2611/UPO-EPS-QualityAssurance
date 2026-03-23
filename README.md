@@ -42,7 +42,7 @@ The project leverages a diverse set of tools and frameworks to cover all testing
 - 🔗 **Link Integrity:** [Deadlink Checker](https://www.deadlinkchecker.com/)
 - 🌐 **Cross-Browser & Device Testing:** [BrowserStack](https://www.browserstack.com/)
 
-More info at the **[wiki of the project](https://github.com/agomezmoron/cal-grupo-2-2025/wiki/Wiki)**.  
+More info at the **[wiki of the project](https://github.com/eLeCe2611/UPO-EPS-QualityAssurance/wiki/Wiki)**.  
 
 ---
 ## ✏️ Code Style Guidelines
