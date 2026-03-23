@@ -1,14 +1,8 @@
 # 💻 Automated Testing Project for the Escuela Politécnica Superior (UPO) Web Page 🏫
 
 📚 **Course:** Calidad  
-👥 **Team Members:** Grupo #02  
-- Carmona Berdugo, Luis
-- López Pilares, Carlos
-- Polo Suárez, Pablo
-- Remesal Banda, Alejandro
-- Romero Corredero, Diego
-- Sánchez Troncoso, Pablo
-
+## 📝 Author
+* **Luis Carmona** - [eLeCe2611](https://github.com/eLeCe2611)
 ---
 
 ## 🔍 Project Overview
